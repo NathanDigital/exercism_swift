@@ -1,0 +1,11 @@
+{
+  "name": "Exercism Swift",
+  "image": "swift:slim",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "sswg.swift-lang"
+      ]
+    }
+  }
+}
